@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SAMARTH2205.aternos.me",
-    "port": 45899,
+    "ip": "SAMARTH2205.aternos.me:26485",
+    "port": 26485,
     "version": "",
     "try-creative": false
   },
